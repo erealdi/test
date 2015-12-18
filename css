@@ -1,0 +1,25 @@
+<html>
+<head></head>
+<body>
+<pre style="word-wrap: break-word; white-space: pre-wrap;">@charset "utf-8";
+
+body, table, form, input, td, th, p, textarea, select {
+  font-family: "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3",
+  "Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック", "MS P Gothic","Osaka",
+  Verdana,Arial, Helvetica, sans-serif;
+}
+
+#main-table {
+  background-image: url(snowrabbit.png) !important;
+}
+</pre>
+<div id="window-resizer-tooltip" style="display: none;">
+<a href="#" title="Edit settings"></a>
+<span class="tooltipTitle">Window size: </span>
+<span class="tooltipWidth" id="winWidth">1920</span> x <span class="tooltipHeight" id="winHeight">1040</span>
+<br>
+<span class="tooltipTitle">Viewport size: </span>
+<span class="tooltipWidth" id="vpWidth">1362</span> x <span class="tooltipHeight" id="vpHeight">955</span>
+</div>
+</body>
+</html>
